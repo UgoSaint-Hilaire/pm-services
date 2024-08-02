@@ -1,0 +1,29 @@
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Fichiers IDE
+.idea/
+*.iml
+.vscode/
+
+# Fichiers de build Java génériques
+*.class
+*.jar
+*.war
+
+# Logs
+*.log
+
+# Dossiers de build Maven génériques
+target/
+
+# Dossiers de build Gradle génériques
+build/
+.gradle/
+
+# Fichiers de configuration spécifiques à l'environnement
+application-*.properties
+application-*.yml
+!application-example.properties
+!application-example.yml
