@@ -6,13 +6,13 @@ Ce répertoire contient l'ensemble des microservices backend pour notre applicat
 
 Le projet est organisé en plusieurs microservices :
 
-- `user-service/` : Gestion des utilisateurs et authentification
+- `user-auth-service/` : Gestion des utilisateurs et authentification
 *WIP*
 
 ## Prérequis
 
 - Java 17+
-- Maven 3.6 ou supérieur
+- Maven 3.6+
 - Docker (pour le déploiement des services)
 
 ## Installation et démarrage
