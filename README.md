@@ -9,7 +9,7 @@ Le projet est organisé en plusieurs microservices :
 - `user-auth-service/` : Gestion des utilisateurs et authentification
 *WIP*
 
-## Prérequis
+## Prérequis développement
 
 - Java 17+
 - Maven 3.6+
