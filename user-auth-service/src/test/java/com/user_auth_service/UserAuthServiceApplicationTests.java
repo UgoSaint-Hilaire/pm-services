@@ -1,4 +1,4 @@
-package com.pm.user_auth_service;
+package com.user_auth_service;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
